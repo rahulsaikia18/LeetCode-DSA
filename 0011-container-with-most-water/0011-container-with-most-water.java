@@ -3,20 +3,16 @@ class Solution {
 
         int left = 0;
         int right = height.length - 1;
-
-        int maxArea = 0;
+        int max = 0;
 
         while (left < right) {
 
-            int width = right - left;
+            int area = Math.min(height[left], height[right]) * (right - left);
 
-            int h = Math.min(height[left], height[right]);
+            if (area > max) {
+                max = area;
+            }
 
-            int area = width * h;
-
-            maxArea = Math.max(maxArea, area);
-
-            // Move the smaller height
             if (height[left] < height[right]) {
                 left++;
             } else {
@@ -24,6 +20,6 @@ class Solution {
             }
         }
 
-        return maxArea;
+        return max;
     }
 }
