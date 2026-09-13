@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -20,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
