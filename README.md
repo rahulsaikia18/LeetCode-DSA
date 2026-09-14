@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
