@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0503-next-greater-element-ii](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
