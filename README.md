@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/rahulsaikia18/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
